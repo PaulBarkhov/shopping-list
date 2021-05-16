@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "qweqweqwe",
+    "mongoUri": "mongodb+srv://admin:root@cluster0.dgf4x.mongodb.net/einkaufslist",
+    "baseUrl": "http://localhost:5000"
+}
